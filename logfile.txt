@@ -1,0 +1,217 @@
+   DATA      HORA   PROGRAMA  OPERACAO
+2012-05-25 21:26:38 SERVER    Server arrancou
+2012-05-25 21:26:45 CLIENTE   Cliente (PID=2263) arrancou
+2012-05-25 21:26:57 ADMIN     Admin (PID=2324) arrancou
+2012-05-25 21:27:16 ADMIN     Admin (PID=2324) encerrou
+2012-05-25 21:27:25 ADMIN     Admin (PID=2350) arrancou
+2012-05-25 21:27:26 ADMIN     Admin envia pedido de encerramento do servidor
+2012-05-25 21:27:26 SERVER    Responde a pedido de encerramento de servidor
+2012-05-25 21:27:26 SERVER    Server encerrado
+2012-05-25 21:27:35 SERVER    Server arrancou
+2012-05-25 21:27:42 ADMIN     Admin envia pedido de encerramento do servidor
+2012-05-25 21:27:42 SERVER    Responde a pedido de encerramento de servidor
+2012-05-25 21:27:42 SERVER    Server encerrado
+2012-05-25 21:27:50 SERVER    Server arrancou
+2012-05-25 21:27:55 CLIENTE   Cliente envia pedido de levantamento de dinheiro
+2012-05-25 21:27:55 SERVER    Lê pedido de levantamento de dinheiro
+2012-05-25 21:27:55 SERVER    Responde a pedido de levantamento de dinheiro
+2012-05-25 21:27:55 CLIENTE   Cliente (PID=2263) encerrou
+2012-05-25 21:27:56 CLIENTE   Cliente (PID=2389) arrancou
+2012-05-25 21:28:02 CLIENTE   Cliente envia pedido de consulta de saldo
+2012-05-25 21:28:02 SERVER    Lê pedido de consulta de saldo
+2012-05-25 21:28:02 SERVER    Responde a pedido de consulta de saldo
+2012-05-25 21:28:03 CLIENTE   Cliente (PID=2389) encerrou
+2012-05-25 21:28:30 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:28:30 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:28:30 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:29:07 ADMIN     Admin envia pedido de criação de conta
+2012-05-25 21:29:07 SERVER    Lê pedido de criação de conta
+2012-05-25 21:29:07 SERVER    Responde a pedido de criação de conta
+2012-05-25 21:29:13 ADMIN     Admin envia pedido de criação de conta
+2012-05-25 21:29:13 SERVER    Lê pedido de criação de conta
+2012-05-25 21:29:13 SERVER    Responde a pedido de criação de conta
+2012-05-25 21:29:18 ADMIN     Admin envia pedido de criação de conta
+2012-05-25 21:29:18 SERVER    Lê pedido de criação de conta
+2012-05-25 21:29:18 SERVER    Responde a pedido de criação de conta
+2012-05-25 21:29:27 ADMIN     Admin envia pedido de criação de conta
+2012-05-25 21:29:27 SERVER    Lê pedido de criação de conta
+2012-05-25 21:29:27 SERVER    Responde a pedido de criação de conta
+2012-05-25 21:29:32 ADMIN     Admin envia pedido de criação de conta
+2012-05-25 21:29:32 SERVER    Lê pedido de criação de conta
+2012-05-25 21:29:32 SERVER    Responde a pedido de criação de conta
+2012-05-25 21:29:33 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:29:33 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:29:33 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:29:47 ADMIN     Admin envia pedido de encerramento do servidor
+2012-05-25 21:29:47 SERVER    Responde a pedido de encerramento de servidor
+2012-05-25 21:29:47 SERVER    Server encerrado
+2012-05-25 21:29:50 SERVER    Server arrancou
+2012-05-25 21:29:50 SERVER    Contas carregadas do ficheiro '../server/accounts.txt'
+2012-05-25 21:30:26 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:30:26 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:30:26 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:30:34 ADMIN     Admin envia pedido de criação de conta
+2012-05-25 21:30:34 SERVER    Lê pedido de criação de conta
+2012-05-25 21:30:34 SERVER    Responde a pedido de criação de conta
+2012-05-25 21:30:36 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:30:36 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:30:36 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:30:41 ADMIN     Admin envia pedido de eliminação de conta
+2012-05-25 21:30:41 SERVER    Lê pedido de eliminação de conta
+2012-05-25 21:30:41 SERVER    Responde a pedido de eliminação de conta
+2012-05-25 21:30:43 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:30:43 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:30:43 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:31:08 ADMIN     Admin envia pedido de criação de conta
+2012-05-25 21:31:08 SERVER    Lê pedido de criação de conta
+2012-05-25 21:31:08 SERVER    Responde a pedido de criação de conta
+2012-05-25 21:31:09 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:31:09 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:31:09 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:32:56 ADMIN     Admin envia pedido de criação de conta
+2012-05-25 21:32:56 SERVER    Lê pedido de criação de conta
+2012-05-25 21:32:56 SERVER    Responde a pedido de criação de conta
+2012-05-25 21:33:33 ADMIN     Admin envia pedido de criação de conta
+2012-05-25 21:33:33 SERVER    Lê pedido de criação de conta
+2012-05-25 21:33:33 SERVER    Responde a pedido de criação de conta
+2012-05-25 21:33:34 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:33:34 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:33:34 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:33:42 ADMIN     Admin envia pedido de encerramento do servidor
+2012-05-25 21:33:42 SERVER    Responde a pedido de encerramento de servidor
+2012-05-25 21:33:42 SERVER    Server encerrado
+2012-05-25 21:33:47 ADMIN     Servidor não disponivel para enviar pedido
+2012-05-25 21:33:50 SERVER    Server arrancou
+2012-05-25 21:33:50 SERVER    Contas carregadas do ficheiro '../server/accounts.txt'
+2012-05-25 21:33:54 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:33:54 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:33:54 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:33:57 CLIENTE   Cliente (PID=2927) arrancou
+2012-05-25 21:34:01 CLIENTE   Cliente envia pedido de levantamento de dinheiro
+2012-05-25 21:34:01 SERVER    Lê pedido de levantamento de dinheiro
+2012-05-25 21:34:01 SERVER    Responde a pedido de levantamento de dinheiro
+2012-05-25 21:34:02 CLIENTE   Cliente (PID=2927) encerrou
+2012-05-25 21:34:03 CLIENTE   Cliente (PID=2939) arrancou
+2012-05-25 21:34:07 CLIENTE   Cliente envia pedido de levantamento de dinheiro
+2012-05-25 21:34:07 SERVER    Lê pedido de levantamento de dinheiro
+2012-05-25 21:34:07 SERVER    Responde a pedido de levantamento de dinheiro
+2012-05-25 21:34:07 CLIENTE   Cliente (PID=2939) encerrou
+2012-05-25 21:34:08 CLIENTE   Cliente (PID=2950) arrancou
+2012-05-25 21:34:11 CLIENTE   Cliente envia pedido de consulta de saldo
+2012-05-25 21:34:11 SERVER    Lê pedido de consulta de saldo
+2012-05-25 21:34:11 SERVER    Responde a pedido de consulta de saldo
+2012-05-25 21:34:12 CLIENTE   Cliente (PID=2950) encerrou
+2012-05-25 21:34:12 CLIENTE   Cliente (PID=2965) arrancou
+2012-05-25 21:34:17 CLIENTE   Cliente envia pedido de depósito de dinheiro
+2012-05-25 21:34:17 SERVER    Lê pedido de depósito de dinheiro
+2012-05-25 21:34:17 SERVER    Responde a pedido de depósito de dinheiro
+2012-05-25 21:34:17 CLIENTE   Cliente (PID=2965) encerrou
+2012-05-25 21:34:18 CLIENTE   Cliente (PID=2988) arrancou
+2012-05-25 21:34:20 CLIENTE   Cliente envia pedido de consulta de saldo
+2012-05-25 21:34:20 SERVER    Lê pedido de consulta de saldo
+2012-05-25 21:34:20 SERVER    Responde a pedido de consulta de saldo
+2012-05-25 21:34:21 CLIENTE   Cliente (PID=2988) encerrou
+2012-05-25 21:34:23 CLIENTE   Cliente (PID=2999) arrancou
+2012-05-25 21:34:36 CLIENTE   Cliente envia pedido de transferência
+2012-05-25 21:34:36 SERVER    Lê pedido de transferência de dinheiro
+2012-05-25 21:34:36 SERVER    Responde a pedido de transferência de dinheiro
+2012-05-25 21:34:37 CLIENTE   Cliente (PID=2999) encerrou
+2012-05-25 21:34:38 CLIENTE   Cliente (PID=3022) arrancou
+2012-05-25 21:34:56 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:34:56 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:34:56 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:35:01 CLIENTE   Cliente envia pedido de transferência
+2012-05-25 21:35:01 SERVER    Lê pedido de transferência de dinheiro
+2012-05-25 21:35:01 SERVER    Responde a pedido de transferência de dinheiro
+2012-05-25 21:35:02 CLIENTE   Cliente (PID=3022) encerrou
+2012-05-25 21:35:05 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:35:05 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:35:05 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:35:09 CLIENTE   Cliente (PID=3063) arrancou
+2012-05-25 21:35:26 CLIENTE   Cliente envia pedido de transferência
+2012-05-25 21:35:26 SERVER    Lê pedido de transferência de dinheiro
+2012-05-25 21:35:26 SERVER    Responde a pedido de transferência de dinheiro
+2012-05-25 21:35:27 CLIENTE   Cliente (PID=3063) encerrou
+2012-05-25 21:35:28 CLIENTE   Cliente (PID=3092) arrancou
+2012-05-25 21:35:39 CLIENTE   Cliente envia pedido de levantamento de dinheiro
+2012-05-25 21:35:39 SERVER    Lê pedido de levantamento de dinheiro
+2012-05-25 21:35:39 SERVER    Responde a pedido de levantamento de dinheiro
+2012-05-25 21:35:40 CLIENTE   Cliente (PID=3092) encerrou
+2012-05-25 21:35:41 CLIENTE   Cliente (PID=3110) arrancou
+2012-05-25 21:35:45 CLIENTE   Cliente envia pedido de consulta de saldo
+2012-05-25 21:35:45 SERVER    Lê pedido de consulta de saldo
+2012-05-25 21:35:45 SERVER    Responde a pedido de consulta de saldo
+2012-05-25 21:35:49 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:35:49 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:35:49 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:35:57 CLIENTE   Cliente (PID=3110) encerrou
+2012-05-25 21:36:22 CLIENTE   Cliente (PID=3138) arrancou
+2012-05-25 21:36:28 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:36:28 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:36:28 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:36:31 ADMIN     Admin envia pedido de eliminação de conta
+2012-05-25 21:36:31 SERVER    Lê pedido de eliminação de conta
+2012-05-25 21:36:31 SERVER    Responde a pedido de eliminação de conta
+2012-05-25 21:36:33 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:36:33 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:36:33 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:37:04 ADMIN     Admin envia pedido de criação de conta
+2012-05-25 21:37:04 SERVER    Lê pedido de criação de conta
+2012-05-25 21:37:04 SERVER    Responde a pedido de criação de conta
+2012-05-25 21:37:05 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:37:05 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:37:05 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:37:28 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:37:28 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:37:28 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:37:41 CLIENTE   Cliente envia pedido de depósito de dinheiro
+2012-05-25 21:37:41 SERVER    Lê pedido de depósito de dinheiro
+2012-05-25 21:37:41 SERVER    Responde a pedido de depósito de dinheiro
+2012-05-25 21:37:42 CLIENTE   Cliente (PID=3138) encerrou
+2012-05-25 21:37:45 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:37:45 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:37:45 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:37:50 CLIENTE   Cliente (PID=3628) arrancou
+2012-05-25 21:37:55 CLIENTE   Cliente (PID=3628) encerrou
+2012-05-25 21:37:55 CLIENTE   Cliente (PID=3638) arrancou
+2012-05-25 21:38:04 CLIENTE   Cliente envia pedido de consulta de saldo
+2012-05-25 21:38:04 SERVER    Lê pedido de consulta de saldo
+2012-05-25 21:38:04 SERVER    Responde a pedido de consulta de saldo
+2012-05-25 21:38:04 CLIENTE   Cliente (PID=3638) encerrou
+2012-05-25 21:38:05 CLIENTE   Cliente (PID=3654) arrancou
+2012-05-25 21:38:19 CLIENTE   Cliente envia pedido de transferência
+2012-05-25 21:38:19 SERVER    Lê pedido de transferência de dinheiro
+2012-05-25 21:38:19 SERVER    Responde a pedido de transferência de dinheiro
+2012-05-25 21:38:20 CLIENTE   Cliente (PID=3654) encerrou
+2012-05-25 21:38:21 CLIENTE   Cliente (PID=3673) arrancou
+2012-05-25 21:38:29 CLIENTE   Cliente envia pedido de consulta de saldo
+2012-05-25 21:38:29 SERVER    Lê pedido de consulta de saldo
+2012-05-25 21:38:29 SERVER    Responde a pedido de consulta de saldo
+2012-05-25 21:38:30 CLIENTE   Cliente (PID=3673) encerrou
+2012-05-25 21:38:33 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:38:33 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:38:33 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:38:38 ADMIN     Admin envia pedido de encerramento do servidor
+2012-05-25 21:38:38 SERVER    Responde a pedido de encerramento de servidor
+2012-05-25 21:38:38 SERVER    Server encerrado
+2012-05-25 21:38:41 ADMIN     Servidor não disponivel para enviar pedido
+2012-05-25 21:38:42 ADMIN     Servidor não disponivel para enviar pedido
+2012-05-25 21:38:45 SERVER    Server arrancou
+2012-05-25 21:38:45 SERVER    Contas carregadas do ficheiro '../server/accounts.txt'
+2012-05-25 21:38:46 ADMIN     Admin envia pedido de encerramento do servidor
+2012-05-25 21:38:46 SERVER    Responde a pedido de encerramento de servidor
+2012-05-25 21:38:46 SERVER    Server encerrado
+2012-05-25 21:38:48 ADMIN     Admin (PID=2350) encerrou
+2012-05-25 21:51:53 SERVER    Server arrancou
+2012-05-25 21:52:07 ADMIN     Admin (PID=4381) arrancou
+2012-05-25 21:52:10 ADMIN     Admin envia pedido de criação de conta
+2012-05-25 21:52:10 SERVER    Lê pedido de criação de conta
+2012-05-25 21:52:10 SERVER    Responde a pedido de criação de conta
+2012-05-25 21:52:12 ADMIN     Admin envia pedido de listagem de contas
+2012-05-25 21:52:12 SERVER    Lê pedido de listagem de contas
+2012-05-25 21:52:12 SERVER    Responde a pedido de listagem de contas
+2012-05-25 21:52:14 ADMIN     Admin envia pedido de encerramento do servidor
+2012-05-25 21:52:14 SERVER    Responde a pedido de encerramento de servidor
+2012-05-25 21:52:14 SERVER    Server encerrado
+2012-05-25 21:52:17 SERVER    Server arrancou
+2012-05-25 21:52:17 SERVER    Contas carregadas do ficheiro '../accounts.txt'
